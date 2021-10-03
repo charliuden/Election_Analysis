@@ -9,9 +9,8 @@ The results of this report are written to election_analysis.txt (found in the Re
 ## Resources
 Software: Python 3.6.7, Visual Studio Code, 1.38.1
 
-In the Resources directory you can find:
-- *election_results.csv:* dataset of vote data (Ballot ID, County, and Candidate)
-- *election_analysis.txt*: results of analysis
+- *election_results.csv:* dataset of vote data (Ballot ID, County, and Candidate), found in *Resources* directory
+- *election_analysis.txt*: results of analysis, found in *analysis* directory
 
 ## Summary 
 This analysis indicates that:
