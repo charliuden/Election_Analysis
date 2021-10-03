@@ -11,7 +11,7 @@ Software: Python 3.6.7, Visual Studio Code, 1.38.1
 
 In the Resources directory you can find:
 - *election_results.csv:* dataset of vote data (Ballot ID, County, and Candidate)
-- *election_analysis.txt*:
+- *election_analysis.txt*: results of analysis
 
 ## Summary 
 This analysis indicates that:
